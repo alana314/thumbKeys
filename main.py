@@ -63,7 +63,7 @@ while True:
         kbd.release(Keycode.DELETE)
         led.value = False
     elif btn2.value == False and btn2_state == False:
-        print("ESC")
+        print("Esc")
         btn2_state = True
         kbd.press(Keycode.ESCAPE)
         led.value = True
@@ -81,7 +81,7 @@ while True:
         kbd.release(Keycode.TAB)
         led.value = False
     elif btn4.value == False and btn4_state == False:
-        print("space")
+        print("Space")
         btn4_state = True
         kbd.press(Keycode.SPACEBAR)
         led.value = True
@@ -95,6 +95,7 @@ while True:
         kbd.press(Keycode.SHIFT)
         led.value = True
     elif btn5.value == True and btn5_state == True:
+        print("Release Shift")
         btn5_state = False
         kbd.release(Keycode.SHIFT)
         led.value = False
