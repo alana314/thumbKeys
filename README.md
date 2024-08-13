@@ -1,7 +1,7 @@
 # Thumb Keys
 
-## Layout:  
-  DEL ESC
+## Button Layout  
+  DEL ESC  
 TAB SPACE SHIFT  
   ALT CTRL
 
