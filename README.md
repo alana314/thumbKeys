@@ -9,4 +9,4 @@ TAB SPACE SHIFT
 ## Setup
 Requires CircuitPython 9.x and Adafruit_HID 9.x  
 Use Thonny to write directly to device: [Thonny](https://thonny.org/)
-Or hold down button 7 (F7) when pluggin in to mount CIRCUITPYTHON and save to USB storage
+Or hold down button 7 (F7) when plugging in to mount CIRCUIT_PYTHON and save to USB storage
