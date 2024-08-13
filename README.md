@@ -1,5 +1,5 @@
 # Thumb Keys  
-A project developed by Alana Balagot and Mike Hansen [barbaricmelons.com](https://barbaricmelons.com/)
+A project developed by Alana Balagot and Mike Hansen ( [barbaricmelons.com](https://barbaricmelons.com/) )
 
 ## Button Layout  
   DEL ESC  
